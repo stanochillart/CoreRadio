@@ -20,7 +20,7 @@ A keď nájdeš skladbu, ktorú si chceš nechať?
 
 ### EchoRadio 1.0
 
-**[STIAHNUŤ ECHORADIO 1.0 — APK](releases/EchoRadio-1.0-release-signed.apk)**
+**[STIAHNUŤ ECHORADIO 1.0 — APK](https://github.com/stanochillart/EchoRadio-Releases/raw/refs/heads/main/Releases/EchoRadio-1.0.0-release-signed.apk)**
 
 **Android 9+ · Internetové rádio · bez účtu**
 
@@ -239,7 +239,7 @@ EchoRadio potrebuje internet, pretože internetové rádio bez internetu jednodu
 Internet sa používa na:
 
 * načítanie katalógu staníc,
-* pripojenie k streamom jednotlivých rádií.
+* pripojenie k streamom jednotlivých rádí.
 
 Katalóg staníc poskytuje **Radio Browser**.
 
