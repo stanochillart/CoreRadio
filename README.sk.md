@@ -4,7 +4,7 @@
 
 ### Rádio z celého sveta. V tvojom telefóne.
 
-**[Stiahnuť](releases/CoreRadio-1.1.apk)** · Android 9+ · bez účtu · bez reklám
+**[Stiahnuť](https://github.com/stanochillart/CoreRadio/releases/download/v1.1/CoreRadio-1.1.apk)** · Android 9+ · bez účtu · bez reklám
 
 ---
 
@@ -32,6 +32,6 @@ Nie je to streamovacia služba s vlastným katalógom. Nevlastní rádiá. Neukl
 
 ---
 
-**[Stiahnuť CoreRadio](releases/CoreRadio-1.1.apk)**
+**[Stiahnuť CoreRadio](https://github.com/stanochillart/CoreRadio/releases/download/v1.1/CoreRadio-1.1.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)

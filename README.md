@@ -4,7 +4,7 @@
 
 ### Radio from the whole world. In your phone.
 
-**[Download](releases/CoreRadio-1.1.apk)** · Android 9+ · no account · no ads
+**[Download](https://github.com/stanochillart/CoreRadio/releases/download/v1.1/CoreRadio-1.1.apk)** · Android 9+ · no account · no ads
 
 ---
 
@@ -32,6 +32,6 @@ This is not a streaming service with its own catalogue. It does not own the stat
 
 ---
 
-**[Download CoreRadio](releases/CoreRadio-1.1.apk)**
+**[Download CoreRadio](https://github.com/stanochillart/CoreRadio/releases/download/v1.1/CoreRadio-1.1.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
