@@ -1,4 +1,4 @@
-**English** · [Slovenčina](README.sk.md)
+**English** · [Slovenčina](https://stanochillart.github.io/CoreRadio/sk/) · [Čeština](https://stanochillart.github.io/CoreRadio/cs/) · [Polski](https://stanochillart.github.io/CoreRadio/pl/) · [Deutsch](https://stanochillart.github.io/CoreRadio/de/) · [Magyar](https://stanochillart.github.io/CoreRadio/hu/) · [Italiano](https://stanochillart.github.io/CoreRadio/it/) · [Español](https://stanochillart.github.io/CoreRadio/es/)
 
 # CoreRadio
 
